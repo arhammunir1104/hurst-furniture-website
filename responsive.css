@@ -1,0 +1,45 @@
+@media (max-width:1100px){
+    
+    /* Section 5 Open  */
+    
+    .sec_5_div1{
+        background-color: white;
+        margin-bottom: 50%;
+    }
+    /* Section 5 Closed  */
+
+}
+@media (max-width:760px){
+    /* Section 5 Open  */
+    
+    .sec_5_div1{
+        background-color: white;
+        margin-bottom: 50%;
+    }
+    /* Section 5 Closed  */
+    
+}
+
+@media (max-width:560px){
+    .section_3_container{
+        width: 100%;
+    }
+
+    /* Section 5 Open  */
+    
+    .sec_5_div1{
+        background-color: white;
+        margin-bottom: 50%;
+    }
+    /* Section 5 Closed  */
+}
+
+@media (max-width:460px){
+      /* Section 5 Open  */
+    
+      .sec_5_div1{
+        background-color: white;
+        margin-bottom: 80%;
+    }
+    /* Section 5 Closed  */
+}
